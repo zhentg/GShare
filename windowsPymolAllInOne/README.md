@@ -1,4 +1,12 @@
 # PyMOL All in one
+
+Many PyMOL users are using Windows.There are precompiled PyMOL available(https://www.lfd.uci.edu/~gohlke/pythonlibs/). And there are many PyMOL plug-ins (https://github.com/Pymol-Scripts/Pymol-script-repo) available too.
+
+However, installation of PyMOL and its plug-ins is not trivial. On Windows, some of the key plug-ins can not work without modifications.
+
+I tried to combine some of the plug-ins with PyMOL, wrote a Windows batch file to setup the environment variables, and 
+pack them into one zip file. With this zip file, use will be able to use PyMOL 2.1 easily on Windows.
+
 ##     Last update
         2/6/2020
 ##     Download

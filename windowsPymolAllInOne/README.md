@@ -11,8 +11,7 @@ pack them into one zip file. With this zip file, use will be able to use PyMOL 2
         2/6/2020
 ##     Download
         Baidu Yun
-            Zip file <https://pan.baidu.com/s/1DDMLUrdDMUOyJxV-oTDkeA>
-            For more information, please download the README file <https://pan.baidu.com/s/1YfWUVY12LiPyecRSsmQ4vg>
+            Zip file (https://pan.baidu.com/s/1DDMLUrdDMUOyJxV-oTDkeA)
  ##    Installation
         Based on the step by step installed packages, Zhenting Gao packed all the file into a package zip file <#ID_20289699>
         Unzip the package to a folder

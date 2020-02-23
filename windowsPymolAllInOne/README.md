@@ -8,11 +8,16 @@ I tried to combine some of the plug-ins with PyMOL, wrote a Windows batch file t
 pack them into one zip file. With this zip file, use will be able to use PyMOL 2.1 easily on Windows.
 
 ##     Last update
-        2/6/2020
+        2/23/2020
 ##     Download
         Baidu Yun
             Zip file (https://pan.baidu.com/s/1VTJ2n7W2Wd4sIo51BPlZXw  提取码：xq3j)
- ##    Installation
+##     Tutorials
+    Baidu Netdisk
+        链接：https://pan.baidu.com/s/12PXRHfXiDgxfZOsoLeSdrg
+            提取码：x4rl
+       - PyMOL云课堂1.mp4 
+##    Installation
         Based on the step by step installed packages, Zhenting Gao packed all the file into a package zip file <#ID_20289699>
         Unzip the package to a folder
             解压缩的目录名称不要包含空格或特殊字符

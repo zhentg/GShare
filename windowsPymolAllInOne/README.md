@@ -14,7 +14,7 @@ pack them into one 7zip file. With this 7zip file, user will have a powerful SBD
 - 2/23/2020
 ##     Download
         Baidu Yun
-            7Zip file (链接：https://pan.baidu.com/s/18XyFTyJOEoJtmdxQo9RH4g 提取码：5x49)
+            7Zip file ( https://pan.baidu.com/s/12hW3z4dICbQW34S-QWGLPA  提取码：eyav )
 ##     Tutorials
     Baidu Netdisk
         链接：https://pan.baidu.com/s/12PXRHfXiDgxfZOsoLeSdrg 提取码：x4rl

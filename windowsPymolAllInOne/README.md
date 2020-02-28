@@ -9,8 +9,8 @@ pack them into one 7zip file. With this 7zip file, user will have a powerful SBD
 
 ##     Updates
 - 2/28/2020
- -install.bat is updated to enable Lisica plugin installation
- -AutoDock Plugin is updated
+ - install.bat is updated to enable Lisica plugin installation
+ - AutoDock Plugin is updated
 - 2/23/2020
 ##     Download
         Baidu Yun

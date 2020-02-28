@@ -1,21 +1,23 @@
 # PyMOL All in one
 
-Many PyMOL users are using Windows.There are precompiled PyMOL available(https://www.lfd.uci.edu/~gohlke/pythonlibs/). And there are many PyMOL plug-ins (https://github.com/Pymol-Scripts/Pymol-script-repo) available too.
+Many researchers want to use PyMOL under Windows. Fortunately, there are precompiled PyMOL binary files available(https://www.lfd.uci.edu/~gohlke/pythonlibs/). And there are many PyMOL plug-ins (https://github.com/Pymol-Scripts/Pymol-script-repo) available too.
 
 However, installation of PyMOL and its plug-ins is not trivial. On Windows, some of the key plug-ins can not work without modifications.
 
 I tried to combine some of the plug-ins with PyMOL, wrote a Windows batch file to setup the environment variables, and 
-pack them into one zip file. With this zip file, use will be able to use PyMOL 2.1 easily on Windows.
+pack them into one 7zip file. With this 7zip file, user will have a powerful SBDD platform based on PyMOL 2.1 on Windows.
 
-##     Last update
-        2/23/2020
+##     Updates
+- 2/28/2020
+ -install.bat is updated to enable Lisica plugin installation
+ -AutoDock Plugin is updated
+- 2/23/2020
 ##     Download
         Baidu Yun
-            Zip file (https://pan.baidu.com/s/1VTJ2n7W2Wd4sIo51BPlZXw  提取码：xq3j)
+            7Zip file (链接：https://pan.baidu.com/s/18XyFTyJOEoJtmdxQo9RH4g 提取码：5x49)
 ##     Tutorials
     Baidu Netdisk
-        链接：https://pan.baidu.com/s/12PXRHfXiDgxfZOsoLeSdrg
-            提取码：x4rl
+        链接：https://pan.baidu.com/s/12PXRHfXiDgxfZOsoLeSdrg 提取码：x4rl
        - PyMOL云课堂1.mp4 
 ##    Installation
         Based on the step by step installed packages, Zhenting Gao packed all the file into a package zip file <#ID_20289699>

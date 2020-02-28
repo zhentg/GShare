@@ -20,7 +20,7 @@ pack them into one 7zip file. With this 7zip file, user will have a powerful SBD
         链接：https://pan.baidu.com/s/12PXRHfXiDgxfZOsoLeSdrg 提取码：x4rl
        - PyMOL云课堂1.mp4 
 ##    Installation
-        Based on the step by step installed packages, Zhenting Gao packed all the file into a package zip file <#ID_20289699>
+        Based on the step by step installed packages, Zhenting Gao packed all the file into a package zip file
         Unzip the package to a folder
             解压缩的目录名称不要包含空格或特殊字符
         Click to run the batch file install.bat
@@ -32,8 +32,7 @@ pack them into one 7zip file. With this 7zip file, user will have a powerful SBD
 ###        Docking
             limitations
                 torsion angle of aromatic amine is rotatable
-                    o
-                        EED226 as an example
+                    EED226 as an example
             Feature
                 water can be included as part of receptor
                 Both AutoDock and AutoDock Vina can be used for docking
@@ -124,5 +123,5 @@ pack them into one 7zip file. With this 7zip file, user will have a powerful SBD
                 lower energy value means better optimized conformation
                     example
                         18 kcal/mol is lower than 19 kcal/mol
-###         Lisica <#ID_1294162165>
+###         Lisica
             2D and 3D alignment of molecules

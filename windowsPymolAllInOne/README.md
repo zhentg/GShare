@@ -8,13 +8,16 @@ I tried to combine some of the plug-ins with PyMOL, wrote a Windows batch file t
 pack them into one 7zip file. With this 7zip file, user will have a powerful SBDD platform based on PyMOL 2.1 on Windows.
 
 ##     Updates
+- 3/16/2020
+  - install.bat is updated so that space character in Windows user name can be recognized correctly.
+  - AutoDock Plugin is updated so that it is possible to dock the same molecule for many times within the same PyMOL session. This function allows user to try different receptor models.
 - 2/28/2020
   - install.bat is updated to enable Lisica plugin installation
   - AutoDock Plugin is updated
 - 2/23/2020
 ##     Download
         Baidu Yun
-            7Zip file ( https://pan.baidu.com/s/12hW3z4dICbQW34S-QWGLPA  提取码：eyav )
+            7Zip file ( to be updated )
 ##     Tutorials
     Baidu Netdisk
         链接：https://pan.baidu.com/s/12PXRHfXiDgxfZOsoLeSdrg 提取码：x4rl

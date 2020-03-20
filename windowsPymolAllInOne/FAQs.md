@@ -1,9 +1,6 @@
 Debug
 ##    3/20/2020
 ###        Case 1
-            Reported by
-                Hengyi Cao
-                    Jidong's student
             Hardware
                 Nvidia Quadro M620
             Bug
@@ -13,8 +10,6 @@ Debug
                 在Nvidia控制面板中，把这个立体打开
                     o
 ###        Case 2
-            Reported by
-                Xingnian Fu
             Bug
                 OpenBabel can not be load, even the path is correctly set
             Deduction

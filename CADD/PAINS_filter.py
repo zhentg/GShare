@@ -709,12 +709,6 @@ def pains_filter(smiIndex, mol, pains):
     return smiIndex, match, smartsIndex
 
 
-def pains_filter1(mol, pains):
-    for p in pains:
-        if mol.HasSubstructMatch(p):
-            return p
-
-
 def workflow(smiFile, painsFile, threads):
     smiNewFile = smiFile.replace(".", "_PAINS.")
     startTime = time.time()

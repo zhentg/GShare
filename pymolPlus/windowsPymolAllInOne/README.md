@@ -21,7 +21,7 @@ pack them into one 7zip file. With this 7zip file, user will have a powerful SBD
             7Zip file ( 链接: https://pan.baidu.com/s/1PE5C0LJJBxyedB1ZgkIq0Q?pwd=eqa5 提取码: eqa5 )
 ##     Tutorials
     Baidu Netdisk
-        链接：https://pan.baidu.com/s/12PXRHfXiDgxfZOsoLeSdrg 提取码：x4rl
+        链接: https://pan.baidu.com/s/1m_TJJCOJBgSzGJoLZQ9Rrg?pwd=7a92 提取码: 7a92
        - PyMOL云课堂1.mp4 
 ##    Installation
         Based on the step by step installed packages, Zhenting Gao packed all the file into a package zip file

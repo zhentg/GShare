@@ -8,6 +8,8 @@ I tried to combine some of the plug-ins with PyMOL, wrote a Windows batch file t
 pack them into one 7zip file. With this 7zip file, user will have a powerful SBDD platform based on PyMOL 2.1 on Windows.
 
 ##     Updates
+- 2025/2/22
+  - Modify the protein preparation code in AutoDock Plugin, so that RNA chain can be processed as receptor
 - 3/16/2020
   - install.bat is updated so that space character in Windows user name can be recognized correctly.
 - 2/28/2020
@@ -16,7 +18,7 @@ pack them into one 7zip file. With this 7zip file, user will have a powerful SBD
 - 2/23/2020
 ##     Download
         Baidu Yun
-            7Zip file ( 链接：https://pan.baidu.com/s/1ib1zKO0z_TrbeQk5Td-cJQ 提取码：l4jm )
+            7Zip file ( 链接: https://pan.baidu.com/s/1PE5C0LJJBxyedB1ZgkIq0Q?pwd=eqa5 提取码: eqa5 )
 ##     Tutorials
     Baidu Netdisk
         链接：https://pan.baidu.com/s/12PXRHfXiDgxfZOsoLeSdrg 提取码：x4rl
